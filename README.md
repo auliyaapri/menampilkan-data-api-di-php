@@ -1,4 +1,4 @@
-# Aplikasi Stock Barang✨
+# Menampilkan Api PHP ✨
 - https://dummyjson.com/
 - display simple api data
 
