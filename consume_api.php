@@ -24,7 +24,7 @@ $data = json_decode($konten, true);
 <body>
     
     <div class="container mt-5 mb-5">
-        <h3>Belajar consume API dengan PHP</h3>
+        <h3>Belajar Menampilkan API dengan PHP</h3>
         <div class="row">
             <?php foreach ($data['products'] as $row) : ?>
                 <div class="col-4 mt-3">
